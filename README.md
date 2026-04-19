@@ -16,3 +16,16 @@ Run locally:
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+## 🧠 Example
+
+Input:
+
+```
+index out of range
+```
+
+Output:
+
+- Explanation: You are accessing an index that does not exist.
+- Fix: Check list length before accessing.
