@@ -19,7 +19,7 @@ Run locally:
 pip install -r requirements.txt  
 streamlit run app.py  
 
-Then open:  
+Then open in your browser (locally):  
 http://localhost:8501
 
 ---
